@@ -1,3 +1,3 @@
 #!/bin/sh
 
-/usr/bin/deluge-web -c /config
+/usr/bin/deluge-web -c /config -L info
